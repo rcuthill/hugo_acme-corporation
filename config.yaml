@@ -1,4 +1,4 @@
-baseURL: http://example.org/                  # URL of the website
+baseURL: https://rcuthill.github.io/hugo_acme-corporation/                  # URL of the website
 languageCode: en-us                           # Locale
 title: Acme Corporation                       # Name of the website
 theme: Eclectic                               # Name of the theme
