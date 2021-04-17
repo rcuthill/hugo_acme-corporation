@@ -2,49 +2,49 @@
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Acme Corporation</title>
-    <link>http://example.org/</link>
+    <link>https://rcuthill.github.io/hugo_acme-corporation/</link>
     <description>Recent content on Acme Corporation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
     
-        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rcuthill.github.io/hugo_acme-corporation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
 <title></title>
-<link>http://example.org/about/</link>
+<link>https://rcuthill.github.io/hugo_acme-corporation/about/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>http://example.org/about/</guid>
+      <guid>https://rcuthill.github.io/hugo_acme-corporation/about/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title></title>
-<link>http://example.org/contact/</link>
+<link>https://rcuthill.github.io/hugo_acme-corporation/contact/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>http://example.org/contact/</guid>
+      <guid>https://rcuthill.github.io/hugo_acme-corporation/contact/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title></title>
-<link>http://example.org/privacy/</link>
+<link>https://rcuthill.github.io/hugo_acme-corporation/privacy/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>http://example.org/privacy/</guid>
+      <guid>https://rcuthill.github.io/hugo_acme-corporation/privacy/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title></title>
-<link>http://example.org/terms/</link>
+<link>https://rcuthill.github.io/hugo_acme-corporation/terms/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>http://example.org/terms/</guid>
+      <guid>https://rcuthill.github.io/hugo_acme-corporation/terms/</guid>
 <description></description>
 <category></category></item>
     

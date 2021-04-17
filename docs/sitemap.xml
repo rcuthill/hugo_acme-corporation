@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://rcuthill.github.io/hugo_acme-corporation/about/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://rcuthill.github.io/hugo_acme-corporation/contact/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/privacy/</loc>
+    <loc>https://rcuthill.github.io/hugo_acme-corporation/privacy/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/terms/</loc>
+    <loc>https://rcuthill.github.io/hugo_acme-corporation/terms/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://rcuthill.github.io/hugo_acme-corporation/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://rcuthill.github.io/hugo_acme-corporation/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://rcuthill.github.io/hugo_acme-corporation/tags/</loc>
   </url>
 </urlset>
